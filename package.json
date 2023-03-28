@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "deploy": "gh-pages -d public"
   },
   "repository": {
     "type": "git",
@@ -16,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/dbrozyna15/pwa-psm/issues"
   },
-  "homepage": "https://github.com/dbrozyna15/pwa-psm#readme",
+  "homepage": "https://dbrozyna15.github.io/pwa-psm/",
   "dependencies": {
     "express": "^4.18.2",
     "gh-pages": "^5.0.0",
