@@ -1,6 +1,6 @@
 var GHPATH = '/pwa-psm';
 var APP_PREFIX = 'pwapms_';
-var VERSION = 'version_008';
+var VERSION = 'version_009';
 var URLS = [
     `${GHPATH}/`,
     `${GHPATH}/index.html`,
