@@ -5,7 +5,7 @@
   "background_color": "#aeaeae",
   "display": "browser",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://dbrozyna15.github.io/pwa-psm/",
   "description": "This is a PWA PSM app",
   "orientation": "any",
   "related_applications": [],
