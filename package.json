@@ -1,0 +1,25 @@
+{
+  "name": "psm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbrozyna15/pwa-psm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbrozyna15/pwa-psm/issues"
+  },
+  "homepage": "https://github.com/dbrozyna15/pwa-psm#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gh-pages": "^5.0.0",
+    "nodemon": "^2.0.22"
+  }
+}
